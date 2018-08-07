@@ -1,4 +1,1 @@
-rainbowc_colors = [
-  "red",
-  "orange"
-  ]
+rainbowc_colors = 
